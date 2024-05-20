@@ -1,16 +1,17 @@
-# ufukatay_todo
+# PLANTIST
 
-A new Flutter project.
+Welcome to my todo list project. You can login with these credentials of two users:
 
-## Getting Started
+1) username: a@a.com
+   password: asdasdasd
 
-This project is a starting point for a Flutter application.
+2) username: asd@asd.com
+   password: asdasdasd
 
-A few resources to get you started if this is your first Flutter project:
+You can also sign up and create an account for yourself.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run the project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1) Open a terminal in the directory of the project
+2) flutter pub get
+3) flutter run
