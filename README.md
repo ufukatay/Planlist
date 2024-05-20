@@ -13,5 +13,5 @@ You can also sign up and create an account for yourself.
 To run the project:
 
 1) Open a terminal in the directory of the project
-2) flutter pub get
-3) flutter run
+2) `flutter pub get`
+3) `flutter run`
