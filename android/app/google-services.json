@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887685447052",
+    "project_id": "ufukatay-todo-2a9f8",
+    "storage_bucket": "ufukatay-todo-2a9f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887685447052:android:5081069b31b6c70c186aa9",
+        "android_client_info": {
+          "package_name": "com.example.ufukatay_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFGhCpCNUueIuKatXqvrIIa2YLOmkhe5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
